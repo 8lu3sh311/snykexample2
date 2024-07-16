@@ -3,3 +3,4 @@ grpcio==1.40.0
 grpcio-tools==1.40.0
 bumpversion
 twine
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
